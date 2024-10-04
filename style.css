@@ -1,0 +1,32 @@
+.main {
+    background-color: #86d2f2;
+    height: 100vh;
+}
+.main h1 {
+    padding-top: 16px;
+    color: #1f1d41;
+    text-align: center;
+}
+.signal {
+    gap: 18px;
+}
+.poll {
+    width: 80px;
+    height: 250px;
+    border-radius:32px;
+    background-color: #1f1d41;
+}
+.btn {
+    background-color: #1f1d41;
+    color: white !important;
+}
+.box {
+    height: 200px;    
+}
+.indicator {
+    margin: auto;
+    width: 48px;
+    height:48px;
+    background-color: #4b5069;
+    border-radius: 50%;
+}
